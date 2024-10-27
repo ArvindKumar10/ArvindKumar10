@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArvindKumar10
-- 👀 I’m interested in Data Science / MAchine Learning
+- 👀 I’m interested in Data Science / MAchine Learning System Design
 - 🌱 I’m currently learning ...Reinforcement Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
